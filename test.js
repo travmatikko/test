@@ -1,9 +1,4 @@
-ddfdfdfhbh
-lkgvbfdjbv
-s,jnbkjhfgvb
-dfgvdfb'
 
-
-
-
+const test = "test";
+alert("Привіт!")
 
